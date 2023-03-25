@@ -8,5 +8,5 @@ I'll teach useful things in telegram channel and put codes here.
 
 <hr>
 
-<h3>C</h3>
+<h3>C programming language</h3>
 <p>3 - Len</p>
